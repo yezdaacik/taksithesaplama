@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\bin\Debug\taksit hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\bin\Debug\taksit hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\bin\Debug\taksit hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\taksit hesaplama\taksit hesaplama\obj\Debug\taksit hesaplama.pdb
